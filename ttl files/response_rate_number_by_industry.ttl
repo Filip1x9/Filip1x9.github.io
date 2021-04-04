@@ -1,0 +1,67 @@
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+0 "Industry" "Manufacturing" ;
+    "Total" 1097 ;
+    "Workforce" 449,
+        648 .
+
+1 "Industry" "Water Supply, Sewerage, Waste Management And Remediation Activities" ;
+    "Total" 70 ;
+    "Workforce" 20,
+        50 .
+
+2 "Industry" "Construction" ;
+    "Total" 284 ;
+    "Workforce" 76,
+        208 .
+
+3 "Industry" "Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles" ;
+    "Total" 1030 ;
+    "Workforce" 344,
+        686 .
+
+4 "Industry" "Accommodation And Food Service Activities" ;
+    "Total" 516 ;
+    "Workforce" 195,
+        321 .
+
+5 "Industry" "Transportation And Storage" ;
+    "Total" 282 ;
+    "Workforce" 89,
+        193 .
+
+6 "Industry" "Information And Communication" ;
+    "Total" 418 ;
+    "Workforce" 121,
+        297 .
+
+7 "Industry" "Professional, Scientific And Technical Activities" ;
+    "Total" 733 ;
+    "Workforce" 265,
+        468 .
+
+8 "Industry" "Administrative And Support Service Activities" ;
+    "Total" 814 ;
+    "Workforce" 361,
+        453 .
+
+9 "Industry" "Education" ;
+    "Total" 318 ;
+    "Workforce" 127,
+        191 .
+
+10 "Industry" "Human Health And Social Work Activities" ;
+    "Total" 144 ;
+    "Workforce" 59,
+        85 .
+
+11 "Industry" "Arts, Entertainment And Recreation" ;
+    "Total" 278 ;
+    "Workforce" 98,
+        180 .
+
+12 "Industry" "All Industries" ;
+    "Total" 6114 ;
+    "Workforce" 2305,
+        3809 .
+

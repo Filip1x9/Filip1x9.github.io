@@ -1,119 +1,29 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-0 "Accredited" 6.6e-02 ;
-    "Business" 8.1e-02 ;
-    "Coronavirus" 3.83e-01 ;
-    "Deferring" 1.67e-01 ;
-    "Government" 2.8e-02 ;
-    "HMRC" 9.2e-02 ;
-    "Industry" "Manufacturing" ;
-    "None" 4.81e-01 .
-
-1 "Accredited" 7.1e-02 ;
-    "Business" 7.1e-02 ;
-    "Coronavirus" 3.86e-01 ;
-    "Deferring" 2.29e-01 ;
-    "Government" 2.9e-02 ;
-    "HMRC" 1.43e-01 ;
-    "Industry" "Water Supply, Sewerage, Waste Management And Remediation Activities" ;
-    "None" 4.57e-01 .
-
-2 "Accredited" 1.1e-01 ;
-    "Business" 3.2e-02 ;
-    "Coronavirus" 4.29e-01 ;
-    "Deferring" 1.74e-01 ;
-    "Government" 5e-02 ;
-    "HMRC" 9.6e-02 ;
-    "Industry" "Construction" ;
-    "None" 4.22e-01 .
-
-3 "Accredited" 8.3e-02 ;
-    "Business" 9.3e-02 ;
-    "Coronavirus" 3.21e-01 ;
-    "Deferring" 1.58e-01 ;
-    "Government" 4.2e-02 ;
-    "HMRC" 7.6e-02 ;
-    "Industry" "Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles" ;
-    "None" 5.38e-01 .
-
-4 "Accredited" 1.22e-01 ;
-    "Business" 1.8e-01 ;
-    "Coronavirus" 4.04e-01 ;
-    "Deferring" 2.35e-01 ;
-    "Government" 6.1e-02 ;
-    "HMRC" 1.37e-01 ;
-    "Industry" "Accommodation And Food Service Activities" ;
-    "None" 3.98e-01 .
-
-5 "Accredited" 7.4e-02 ;
-    "Business" 9.6e-02 ;
-    "Coronavirus" 3.55e-01 ;
-    "Deferring" 1.99e-01 ;
-    "Government" 2.1e-02 ;
-    "HMRC" 7.8e-02 ;
-    "Industry" "Transportation And Storage" ;
-    "None" 4.89e-01 .
-
-6 "Accredited" 5e-02 ;
-    "Business" 7e-02 ;
-    "Coronavirus" 2.6e-01 ;
-    "Deferring" 1.63e-01 ;
-    "Government" 2.9e-02 ;
-    "HMRC" 6.7e-02 ;
-    "Industry" "Information And Communication" ;
-    "None" 5.87e-01 .
-
-7 "Accredited" 7.4e-02 ;
-    "Business" 7.3e-02 ;
-    "Coronavirus" 3.5e-01 ;
-    "Deferring" 2.28e-01 ;
-    "Government" 2.3e-02 ;
-    "HMRC" 8.3e-02 ;
-    "Industry" "Professional, Scientific And Technical Activities" ;
-    "None" 5.03e-01 .
-
-8 "Accredited" 9e-02 ;
+0 "Accredited" 8.5e-02 ;
     "Business" 8.9e-02 ;
-    "Coronavirus" 4.01e-01 ;
-    "Deferring" 2.27e-01 ;
-    "Government" 6.3e-02 ;
-    "HMRC" 1.02e-01 ;
-    "Industry" "Administrative And Support Service Activities" ;
-    "None" 4.5e-01 .
+    "Coronavirus" 3.67e-01 ;
+    "Deferring" 2.02e-01 ;
+    "Government" 4.6e-02 ;
+    "HMRC" 9.4e-02 ;
+    "None" 4.8e-01 ;
+    "Workforce" "< 250" .
 
-9 "Accredited" 6.6e-02 ;
-    "Business" 9.8e-02 ;
-    "Coronavirus" 4.59e-01 ;
-    "Deferring" 1.74e-01 ;
-    "Government" 0e+00 ;
-    "HMRC" 2.2e-02 ;
-    "Industry" "Education" ;
-    "None" 4.21e-01 .
+1 "Accredited" 7.2e-02 ;
+    "Business" 9.4e-02 ;
+    "Coronavirus" 3.7e-01 ;
+    "Deferring" 1.69e-01 ;
+    "Government" 2.7e-02 ;
+    "HMRC" 7.8e-02 ;
+    "None" 4.86e-01 ;
+    "Workforce" "250 +" .
 
-10 "Accredited" 1.4e-02 ;
-    "Business" 4.2e-02 ;
-    "Coronavirus" 3.1e-01 ;
-    "Deferring" 9.9e-02 ;
-    "Government" 3.5e-02 ;
-    "HMRC" 5.6e-02 ;
-    "Industry" "Human Health And Social Work Activities" ;
-    "None" 5.85e-01 .
-
-11 "Accredited" 1.08e-01 ;
-    "Business" 1.22e-01 ;
-    "Coronavirus" 4.1e-01 ;
-    "Deferring" 2.12e-01 ;
-    "Government" 5.8e-02 ;
-    "HMRC" 1.04e-01 ;
-    "Industry" "Arts, Entertainment And Recreation" ;
-    "None" 3.92e-01 .
-
-12 "Accredited" 8e-02 ;
+2 "Accredited" 8e-02 ;
     "Business" 9.1e-02 ;
     "Coronavirus" 3.68e-01 ;
     "Deferring" 1.9e-01 ;
     "Government" 3.9e-02 ;
     "HMRC" 8.8e-02 ;
-    "Industry" "All Industries" ;
-    "None" 4.82e-01 .
+    "None" 4.82e-01 ;
+    "Workforce" "All Size Bands" .
 

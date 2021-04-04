@@ -1,8 +1,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 0 "Industry" "All Industries" ;
-    "Total" 17624 ;
-    "Workforce" 1326,
-        7182,
-        9116 .
+    "Workforce" 357,
+        2305,
+        3452 .
 

@@ -1,0 +1,7 @@
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+0 "Industry.1" "All Industries" ;
+    "Workforce" 2.69e-01,
+        3.21e-01,
+        3.79e-01 .
+
